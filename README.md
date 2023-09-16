@@ -1,2 +1,3 @@
 # Networking-Protocol
-Simplified HTTP
+Simplified TCP
+
