@@ -1,3 +1,3 @@
 # Networking-Protocol
-Simplified TCP
+Handcrafted TCP & CSMA
 
